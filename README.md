@@ -1,1 +1,1 @@
-# pv-balkonkraftwerk
+# Doku zur Errichtung meines Photovoltaik Balkonkraftwerkes
