@@ -1,4 +1,6 @@
-# Einleitung und Motivation
+# Doku zur Errichtung meines Photovoltaik Balkonkraftwerkes
+
+## Einleitung und Motivation
 
 600 W, ohne Elektriker
 keine Einspeise-Vergütung, nur privat
@@ -19,11 +21,11 @@ Entlastung des Zählers
 3. Erfahrung sammeln
 für größere Anlagen
 
-# Podcast-Links
+## Podcast-Links
 Besonders dieser Podcast hat mich erwischt - ich habe ihn auf der Urlaubsfahrt gehört und es hat mich sofort gepackt. So einfach? Das will ich auch.
 * Balkonkraftwerke und selbstgemachter Strom | c’t uplink 43.8: https://www.heise.de/news/Balkonkraftwerke-und-selbstgemachter-Strom-c-t-uplink-43-8-7126423.html
 
-# Selberbauen oder Fertiglösung
+## Selberbauen oder Fertiglösung
 Nerd...
 diese Seite soll auch dazu dienen, relevante Details und Überlegungen zu dokumentieren, so dass die Hürde, es ebenfalls selbst zu bauen, gesenkt wird.
 Fertiglösung ist sicher auch OK, jede Anlage ist ein Schritt in die richtige Richtung zur dezentralen Energiegewinnung
