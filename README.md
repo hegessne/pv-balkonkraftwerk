@@ -11,9 +11,9 @@ Voraussetzungen müssen erfüllt sein (Zähler, Stromleitungen)
 nicht Wirtschaftlichkeit im Vordergrund
 
 1. Teilnehmen an Energiewende
-- grüner Strom, Teilnehmen an Energiewende
-- jede kWh, die durch meine PV-Anlage erzeugt wird, reduziert den CO2, weil diese nicht in einem Kraftwerk z. B. durch die Verbrennung fossiler Energieträger (Gas, Kohle) hergestellt werden muss
-- positive Effekte auf Umwelt im Sinne, dass meine Anlage andere sehen und sich dafür interessieren, mitmachen
+  - grüner Strom, Teilnehmen an Energiewende
+  - jede kWh, die durch meine PV-Anlage erzeugt wird, reduziert den CO2, weil diese nicht in einem Kraftwerk z. B. durch die Verbrennung fossiler Energieträger (Gas, Kohle) hergestellt werden muss
+  - positive Effekte auf Umwelt im Sinne, dass meine Anlage andere sehen und sich dafür interessieren, mitmachen
 
 2. Wirtschaftlichkeit
 Entlastung des Zählers
