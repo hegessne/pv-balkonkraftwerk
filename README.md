@@ -1,5 +1,5 @@
 # Doku zur Errichtung meines Photovoltaik Balkonkraftwerkes
-direkt zum [Blog](https://github.com/hegessne/pv-balkonkraftwerk/blob/init/README.md#blog)
+direkt zum [Blog](blog.md)
 ## Einleitung und Motivation
 
 Das erste Mal bin ich beim Hören des Podcasts (siehe unten) auf der langen Urlaubsfahrt das erste Mal mit Balkonkraftwerken in Berührung gekommen und ich fand das Thema sofort interessant. Es gibt kaum Hindernisse - es kann praktisch jeder machen.
@@ -32,7 +32,7 @@ Natürlich ist die Verhältnismäßigkeit zwischen Investition und Nutzen nicht 
 
 ## Podcast-Links
 Besonders dieser Podcast hat mich erwischt - ich habe ihn auf der Urlaubsfahrt gehört und es hat mich sofort gepackt. So einfach? Das will ich auch.
-* Balkonkraftwerke und selbstgemachter Strom | c’t uplink 43.8: https://www.heise.de/news/Balkonkraftwerke-und-selbstgemachter-Strom-c-t-uplink-43-8-7126423.html
+* [Balkonkraftwerke und selbstgemachter Strom - c’t uplink 43.8](https://www.heise.de/news/Balkonkraftwerke-und-selbstgemachter-Strom-c-t-uplink-43-8-7126423.html)
 
 ## Selberbauen oder Fertiglösung
 Wie oben bereits geschrieben, habe ich mich entschieden, eine PV-Anlage (Balkonkraftwerk) selbst zu bauen.
