@@ -29,3 +29,9 @@ Besonders dieser Podcast hat mich erwischt - ich habe ihn auf der Urlaubsfahrt g
 Nerd...
 diese Seite soll auch dazu dienen, relevante Details und Überlegungen zu dokumentieren, so dass die Hürde, es ebenfalls selbst zu bauen, gesenkt wird.
 Fertiglösung ist sicher auch OK, jede Anlage ist ein Schritt in die richtige Richtung zur dezentralen Energiegewinnung
+
+## Auf gehts
+### Einzelteile
+#### [Wechselrichter/ Inverter](inverter.md)
+#### [PV Module](pv-module.md)
+#### [Zubehör](stuff.md)
