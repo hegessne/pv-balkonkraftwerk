@@ -1,6 +1,6 @@
 Ich habe recherchiert und mich für 2 JA Solar 395 Watt Module entschieden.
 # JA Solar JAM54S31 PV Modul 395 Wp full black schwarz
-![JA Solar JAM54S31](files/pv-molules/jasolar_JAM54S31_395/Photovoltaik_JASolar_375WP_schwarz_seitlich.jpg 'JA Solar JAM54S31 PV Modul 395 Wp full black schwarz')
+![JA Solar JAM54S31](files/pv-molules/jasolar_JAM54S31_395/Photovoltaik_JASolar_375WP_schwarz_seitlich.jpg 'JA Solar JAM54S31 PV Modul 395 Wp full black schwarz'){:height="360px" width="360px"}.
 * Zelltyp: Mono
 * Nennleistung P: 395 Wp (Watt peak)
 * Modulwirkungsgrad STC: 20,2%
