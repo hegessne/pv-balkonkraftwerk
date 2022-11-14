@@ -7,5 +7,5 @@ plugins:
 #remote_theme: pages-themes/architect@v0.2.0    # Favorit hell
 #remote_theme: pages-themes/midnight@v0.2.0     # Favorit dunkel
 #remote_theme: pages-themes/minimal@v0.2.0
-remote_theme: pages-themes/slate@v0.2.0
-#remote_theme: pages-themes/tactile@v0.2.0
+#remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0
