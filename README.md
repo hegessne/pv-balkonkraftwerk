@@ -1,15 +1,28 @@
 # Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes
-direkt zum [Blog](blog.md)
-## Einleitung und Motivation
+Diese Seite dokumentiert den Aufbau und Betrieb meiner PV-Anlage (Balkonkraftwerk)
 
-Das erste Mal bin ich beim Hören des Podcasts (siehe unten) auf der langen Urlaubsfahrt das erste Mal mit Balkonkraftwerken in Berührung gekommen und ich fand das Thema sofort interessant. Es gibt kaum Hindernisse - es kann praktisch jeder machen.
+Table of Contents
+  - [Einleitung und Motivation](#einleitung-und-motivation)
+  - [Podcast-Links](#podcast-links)
+  - [Selberbauen oder Fertiglösung](#selberbauen-oder-fertiglösung)
+  - [Auf gehts](#auf-gehts)
+    - [Einzelteile](#einzelteile)
+    - [Blog](#blog)
+  - [Quellen](#quellen)
+
+## Einleitung und Motivation
+Das erste Mal bin ich beim Hören des Podcasts (siehe unten) auf der langen Urlaubsfahrt mit Balkonkraftwerken in Berührung gekommen und ich fand das Thema sofort interessant. Es gibt kaum Hindernisse - es kann praktisch jeder machen. Egal ob Mietwohnung, Gartengrundstück oder Eigenheim - eine kleine PV-Anlage mit bis zu 600 Watt Ausgangsleistung darf jeder zu Hause betreiben, ohne dass sie ein Elektriker oder der Netzanbieter abnehmen lassen muss.
+
+Allerdings sollte man es nicht mit einer Notstromversorgung verwechseln, denn wenn keine Netzspannung anliegt, schaltet sich der Wechselrichter aus Sicherheitsgründen automatisch ab.
 
 Die folgenden Rahmenbedingungen stehen dabei im Vordergrund:
 - maximale Einspeiseleistung von 600 Watt (VDE-konform ohne Elektriker und ohne Abnahme)
 - keine Einspeise-Vergütung (EEG-Umlage), nur private Verwendung
+- keine Stromspeicherung
 - Voraussetzungen müssen erfüllt sein
-  - moderner Zähler (darf nicht rückwärts laufen)
+  - moderner Stromzähler (darf nicht rückwärts laufen)
   - Stromleitungen müssen stark genug sein (am besten nicht älter als 40 Jahre alt)
+- Anmeldung bei der Bundesnetzagentur (Marktstammdatenregister) und beim Netzanbieter
 
 Für mich steht nicht die Wirtschaftlichkeit der Anlage im Vordergrund - meine Motivation erstreckt sich in folgenden Punkten:
 1. Teilnehmen an Energiewende
