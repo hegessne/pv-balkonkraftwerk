@@ -1,4 +1,4 @@
-# Doku zur Errichtung meines Photovoltaik Balkonkraftwerkes
+# Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes
 direkt zum [Blog](blog.md)
 ## Einleitung und Motivation
 
@@ -41,9 +41,9 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 
 ## Auf gehts
 ### Einzelteile
-#### [Wechselrichter/ Inverter](inverter.md)
-#### [PV Module](pv-module.md)
-#### [Zubehör](stuff.md)
+* [Wechselrichter/ Inverter](inverter.md)
+* [PV Module](pv-module.md)
+* [Zubehör](stuff.md)
 ### [Blog](blog.md)
 
 ## Quellen
