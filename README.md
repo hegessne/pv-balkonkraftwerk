@@ -41,9 +41,9 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 
 ## Auf gehts
 ### Einzelteile
-#### [Wechselrichter/ Inverter](inverter.md)
-#### [PV Module](pv-module.md)
-#### [Zubehör](stuff.md)
+* [Wechselrichter/ Inverter](inverter.md)
+* [PV Module](pv-module.md)
+* [Zubehör](stuff.md)
 ### [Blog](blog.md)
 
 ## Quellen
