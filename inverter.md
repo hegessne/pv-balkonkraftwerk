@@ -16,12 +16,14 @@ Somit sind - anders als bei anderen Micro Invertern - keine weiteren Abschaltvor
 * max. Eingangsspannung: 500 V
 * Start Spannung:	50 V (im Manual steht 70 Volt) -> 35 Volt haben definitiv nicht gereicht - siehe erster und zweiter Versuch.
 * max. Wirkungsgrad: 96,5 %
-* https://www.reichelt.de/wechselrichter-growatt-balkonkraftwerk-600-w-gw-mic-600-tl-x-p328390.html
-* https://www.growatt.de.com/show-40-626.html
-* https://www.heise.de/preisvergleich/growatt-mic-600tl-x-a2787099.html
 
 ## Downloads
 * [Datasheet DE](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_DS-DE.pdf)
 * [Manual DE](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_MAN-DE.pdf)
 * [Quick Guide](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_QUICK-DE.pdf)
 * [Zertifikat für den Netz- und Anlagenschutz](files/inverter/GW-MIC-600-TL-X/NA-SCHUTZ_MIC_600.pdf)
+
+## Links
+* [Reichelt.de](https://www.reichelt.de/wechselrichter-growatt-balkonkraftwerk-600-w-gw-mic-600-tl-x-p328390.html)
+* [Growatt](https://www.growatt.de.com/show-40-626.html)
+* [Heise Preisvergleich](https://www.heise.de/preisvergleich/growatt-mic-600tl-x-a2787099.html)
