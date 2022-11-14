@@ -58,6 +58,3 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 * [PV Module](pv-module.md)
 * [Zubehör](stuff.md)
 ### [Blog](blog.md)
-
-## Quellen
-* ...
