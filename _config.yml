@@ -1,33 +1,11 @@
 # Build Settings
 markdown: kramdown
-# theme: minima
 
-# Theme architect
-#remote_theme: pages-themes/architect@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-#remote_theme: pages-themes/cayman@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-#remote_theme: pages-themes/dinky@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-# Theme hacker
-#remote_theme: pages-themes/hacker@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-#remote_theme: pages-themes/leap-day@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-#remote_theme: pages-themes/midnight@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+remote_theme: pages-themes/architect@v0.2.0    # sieht auch gut aus
+#remote_theme: pages-themes/midnight@v0.2.0     # Favorit - schön schwarz
+#remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/slate@v0.2.
+#remote_theme: pages-themes/tactile@v0.2.0
