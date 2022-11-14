@@ -1,6 +1,6 @@
 # Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes
 Diese Seite dokumentiert den Aufbau und Betrieb meiner PV-Anlage (Balkonkraftwerk)
-
+---
 Table of Contents
   - [Einleitung und Motivation](#einleitung-und-motivation)
   - [Podcast-Links](#podcast-links)
@@ -9,20 +9,20 @@ Table of Contents
     - [Einzelteile](#einzelteile)
     - [Blog](#blog)
   - [Quellen](#quellen)
-
+---
 ## Einleitung und Motivation
 Das erste Mal bin ich beim Hören des Podcasts (siehe unten) auf der langen Urlaubsfahrt mit Balkonkraftwerken in Berührung gekommen und ich fand das Thema sofort interessant. Es gibt kaum Hindernisse - es kann praktisch jeder machen. Egal ob Mietwohnung, Gartengrundstück oder Eigenheim - eine kleine PV-Anlage mit bis zu 600 Watt Ausgangsleistung darf jeder zu Hause betreiben, ohne dass sie ein Elektriker oder der Netzanbieter abnehmen lassen muss.
 
-Allerdings sollte man es nicht mit einer Notstromversorgung verwechseln, denn wenn keine Netzspannung anliegt, schaltet sich der Wechselrichter aus Sicherheitsgründen automatisch ab.
+**Allerdings sollte man es nicht mit einer Notstromversorgung verwechseln, denn wenn keine Netzspannung anliegt, schaltet sich der Wechselrichter aus Sicherheitsgründen automatisch ab.**
 
-Die folgenden Rahmenbedingungen stehen dabei im Vordergrund:
-- maximale Einspeiseleistung von 600 Watt (VDE-konform ohne Elektriker und ohne Abnahme)
-- keine Einspeise-Vergütung (EEG-Umlage), nur private Verwendung
-- keine Stromspeicherung
-- Voraussetzungen müssen erfüllt sein
-  - moderner Stromzähler (darf nicht rückwärts laufen)
-  - Stromleitungen müssen stark genug sein (am besten nicht älter als 40 Jahre alt)
-- Anmeldung bei der Bundesnetzagentur (Marktstammdatenregister) und beim Netzanbieter
+**Die folgenden Rahmenbedingungen stehen dabei im Vordergrund:
+** - maximale Einspeiseleistung von 600 Watt (VDE-konform ohne Elektriker und ohne Abnahme)
+** - keine Einspeise-Vergütung (EEG-Umlage), nur private Verwendung
+** - keine Stromspeicherung
+** - Voraussetzungen müssen erfüllt sein
+**   - moderner Stromzähler (darf nicht rückwärts laufen)
+**   - Stromleitungen müssen stark genug sein (am besten nicht älter als 40 Jahre alt)
+** - Anmeldung bei der Bundesnetzagentur (Marktstammdatenregister) und beim Netzanbieter
 
 Für mich steht nicht die Wirtschaftlichkeit der Anlage im Vordergrund - meine Motivation erstreckt sich in folgenden Punkten:
 1. Teilnehmen an Energiewende
@@ -47,12 +47,12 @@ Natürlich ist die Verhältnismäßigkeit zwischen Investition und Nutzen nicht 
 Besonders dieser Podcast hat mich erwischt - ich habe ihn auf der Urlaubsfahrt gehört und es hat mich sofort gepackt. So einfach? Das will ich auch.
 * [Balkonkraftwerke und selbstgemachter Strom - c’t uplink 43.8](https://www.heise.de/news/Balkonkraftwerke-und-selbstgemachter-Strom-c-t-uplink-43-8-7126423.html)
 
-## Selberbauen oder Fertiglösung
+## Selberbauen oder Fertiglösung?
 Wie oben bereits geschrieben, habe ich mich entschieden, eine PV-Anlage (Balkonkraftwerk) selbst zu bauen.
 Diese Seite soll auch dazu dienen, relevante Details und Überlegungen zu dokumentieren, so dass die Hürde, es ebenfalls selbst zu bauen, gesenkt wird.
 Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Schritt in die richtige Richtung zur dezentralen Energiegewinnung sind.
 
-## Auf gehts
+## Auf gehts - wir fangen mal an
 ### Einzelteile
 * [Wechselrichter/ Inverter](inverter.md)
 * [PV Module](pv-module.md)
