@@ -1,4 +1,4 @@
-# Doku zur Errichtung meines Photovoltaik Balkonkraftwerkes
+# Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes
 direkt zum [Blog](blog.md)
 ## Einleitung und Motivation
 
