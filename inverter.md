@@ -6,8 +6,8 @@ Einphasiger Wechselrichter mit 600 Watt Ausgangsleistung. Ich habe mich (vorerst
 Dies garantiert, dass sich der Wechselrichter auf jeden Fall selbstständig vom Stromnetz trennt, um eine Inselbildung und Rückspeisung in das Stromnetz zu verhindern.
 Somit sind - anders als bei anderen Micro Invertern - keine weiteren Abschaltvorrichtungen notwendig. Dies reduziert die Material - und Installationskosten der PV-Anlage.
 ## technische Daten
-* 600 Watt Ausgangsleistung
 * Schutzart: IP65
+* max. Ausgangsleistung AC: 600 W
 * max. DC Eingangsleistung: 1050 W
 * max. Eingangsspannung: 500 V
 * Start Spannung:	50 V (im Manual steht 70 Volt) -> 35 Volt haben definitiv nicht gereicht - siehe erster und zweiter Versuch.
@@ -17,7 +17,7 @@ Somit sind - anders als bei anderen Micro Invertern - keine weiteren Abschaltvor
 * https://www.heise.de/preisvergleich/growatt-mic-600tl-x-a2787099.html
 
 ## Downloads
-[Datasheet DE](inverter/GW-MIC-600-TL-X/../../files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_DS-DE.pdf)
-[Manual DE](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_MAN-DE.pdf)
-[Quick Guide](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_QUICK-DE.pdf)
-[Zertifikat für den Netz- und Anlagenschutz](files/inverter/GW-MIC-600-TL-X/NA-SCHUTZ_MIC_600.pdf)
+* [Datasheet DE](inverter/GW-MIC-600-TL-X/../../files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_DS-DE.pdf)
+* [Manual DE](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_MAN-DE.pdf)
+* [Quick Guide](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_QUICK-DE.pdf)
+* [Zertifikat für den Netz- und Anlagenschutz](files/inverter/GW-MIC-600-TL-X/NA-SCHUTZ_MIC_600.pdf)
