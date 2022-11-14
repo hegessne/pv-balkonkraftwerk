@@ -5,7 +5,7 @@ direkt zum [Blog](blog.md)
 Das erste Mal bin ich beim Hören des Podcasts (siehe unten) auf der langen Urlaubsfahrt das erste Mal mit Balkonkraftwerken in Berührung gekommen und ich fand das Thema sofort interessant. Es gibt kaum Hindernisse - es kann praktisch jeder machen.
 
 Die folgenden Rahmenbedingungen stehen dabei im Vordergrund:
-- maximale Einspeiseleistung von 600 Watt
+- maximale Einspeiseleistung von 600 Watt (VDE-konform ohne Elektriker und ohne Abnahme)
 - keine Einspeise-Vergütung (EEG-Umlage), nur private Verwendung
 - Voraussetzungen müssen erfüllt sein
   - moderner Zähler (darf nicht rückwärts laufen)
