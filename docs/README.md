@@ -18,14 +18,14 @@ Das erste Mal bin ich beim Hören des Podcasts (siehe unten) auf der langen Urla
 
 **Allerdings sollte man es nicht mit einer Notstromversorgung verwechseln, denn wenn keine Netzspannung anliegt, schaltet sich der Wechselrichter aus Sicherheitsgründen automatisch ab.**
 
-**Die folgenden Rahmenbedingungen stehen dabei im Vordergrund:
-** - maximale Einspeiseleistung von 600 Watt (VDE-konform ohne Elektriker und ohne Abnahme)
-** - keine Einspeise-Vergütung (EEG-Umlage), nur private Verwendung
-** - keine Stromspeicherung
-** - Voraussetzungen müssen erfüllt sein
-**   - moderner Stromzähler (darf nicht rückwärts laufen)
-**   - Stromleitungen müssen stark genug sein (am besten nicht älter als 40 Jahre alt)
-** - Anmeldung bei der Bundesnetzagentur (Marktstammdatenregister) und beim Netzanbieter
+**Die folgenden Rahmenbedingungen stehen dabei im Vordergrund:**
+- maximale Einspeiseleistung von 600 Watt (VDE-konform ohne Elektriker und ohne Abnahme)
+- keine Einspeise-Vergütung (EEG-Umlage), nur private Verwendung
+- keine Stromspeicherung
+- Voraussetzungen müssen erfüllt sein
+  - moderner Stromzähler (darf nicht rückwärts laufen)
+  - Stromleitungen müssen stark genug sein (am besten nicht älter als 40 Jahre alt)
+- Anmeldung bei der Bundesnetzagentur (Marktstammdatenregister) und beim Netzanbieter
 
 Für mich steht nicht die Wirtschaftlichkeit der Anlage im Vordergrund - meine Motivation erstreckt sich in folgenden Punkten:
 1. Teilnehmen an Energiewende
