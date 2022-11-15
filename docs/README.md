@@ -1,17 +1,24 @@
 # Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes
-Diese Seite dokumentiert den Aufbau und Betrieb meiner PV-Anlage (Balkonkraftwerk)
 
+Diese Seite dokumentiert den Aufbau und Betrieb meiner PV-Anlage (Balkonkraftwerk)
 ---
 
 Table of Contents
+- [Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes](#doku-zum-aufbau-und-betrieb-meines-photovoltaik-balkonkraftwerkes)
+  - [Diese Seite dokumentiert den Aufbau und Betrieb meiner PV-Anlage (Balkonkraftwerk)](#diese-seite-dokumentiert-den-aufbau-und-betrieb-meiner-pv-anlage-balkonkraftwerk)
+  - [- Github Pages](#--github-pages)
   - [Einleitung und Motivation](#einleitung-und-motivation)
   - [Podcast-Links](#podcast-links)
-  - [Selberbauen oder Fertiglösung](#selberbauen-oder-fertiglösung)
-  - [Auf gehts](#auf-gehts)
+  - [Selberbauen oder Fertiglösung?](#selberbauen-oder-fertiglösung)
+  - [Auf gehts - wir fangen mal an](#auf-gehts---wir-fangen-mal-an)
     - [Einzelteile](#einzelteile)
-    - [Blog](#blog)
-
+    - [Behördenkram (kommt noch)](#behördenkram-kommt-noch)
+    - [Blog (kommt noch)](#blog-kommt-noch)
+  - [GitHub Pages](#github-pages)
 ---
+
+
+
 
 ## Einleitung und Motivation
 Das erste Mal bin ich beim Hören des Podcasts (siehe unten) auf der langen Urlaubsfahrt mit Balkonkraftwerken in Berührung gekommen und ich fand das Thema sofort interessant. Es gibt kaum Hindernisse - es kann praktisch jeder machen. Egal ob Mietwohnung, Gartengrundstück oder Eigenheim - eine kleine PV-Anlage mit bis zu 600 Watt Ausgangsleistung darf jeder zu Hause betreiben, ohne dass sie ein Elektriker oder der Netzanbieter abnehmen lassen muss.
@@ -63,3 +70,7 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 
 ### Behördenkram (kommt noch)
 ### [Blog](blog.md) (kommt noch)
+
+## GitHub Pages
+Diese Seite wurde mit GitHub Pages erstellt, eine sehr einfache und coole Art, statischen Content als Webseite zur Verfügung zu stellen.
+* [weiter mit GitHub Pages](github-pages.md)
