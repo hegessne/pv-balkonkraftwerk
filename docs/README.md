@@ -1,6 +1,7 @@
 # Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes
 Diese Seite dokumentiert den Aufbau und Betrieb meiner PV-Anlage (Balkonkraftwerk)
 ---
+
 Table of Contents
   - [Einleitung und Motivation](#einleitung-und-motivation)
   - [Podcast-Links](#podcast-links)
@@ -8,6 +9,8 @@ Table of Contents
   - [Auf gehts - wir fangen mal an](#auf-gehts---wir-fangen-mal-an)
     - [Komponenten](#komponenten)
   - [GitHub Pages](#github-pages)
+
+
 ---
 
 
