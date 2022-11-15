@@ -1,6 +1,8 @@
 # Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes
 Diese Seite dokumentiert den Aufbau und Betrieb meiner PV-Anlage (Balkonkraftwerk)
+
 ---
+
 Table of Contents
   - [Einleitung und Motivation](#einleitung-und-motivation)
   - [Podcast-Links](#podcast-links)
@@ -8,8 +10,9 @@ Table of Contents
   - [Auf gehts](#auf-gehts)
     - [Einzelteile](#einzelteile)
     - [Blog](#blog)
-  - [Quellen](#quellen)
+
 ---
+
 ## Einleitung und Motivation
 Das erste Mal bin ich beim Hören des Podcasts (siehe unten) auf der langen Urlaubsfahrt mit Balkonkraftwerken in Berührung gekommen und ich fand das Thema sofort interessant. Es gibt kaum Hindernisse - es kann praktisch jeder machen. Egal ob Mietwohnung, Gartengrundstück oder Eigenheim - eine kleine PV-Anlage mit bis zu 600 Watt Ausgangsleistung darf jeder zu Hause betreiben, ohne dass sie ein Elektriker oder der Netzanbieter abnehmen lassen muss.
 
@@ -57,4 +60,6 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 * [Wechselrichter/ Inverter](inverter.md)
 * [PV Module](pv-module.md)
 * [Zubehör](stuff.md)
-### [Blog](blog.md)
+
+### Behördenkram (kommt noch)
+### [Blog](blog.md) (kommt noch)
