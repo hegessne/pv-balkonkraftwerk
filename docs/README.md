@@ -1,19 +1,12 @@
 # Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes
-
 Diese Seite dokumentiert den Aufbau und Betrieb meiner PV-Anlage (Balkonkraftwerk)
 ---
-
 Table of Contents
-- [Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes](#doku-zum-aufbau-und-betrieb-meines-photovoltaik-balkonkraftwerkes)
-  - [Diese Seite dokumentiert den Aufbau und Betrieb meiner PV-Anlage (Balkonkraftwerk)](#diese-seite-dokumentiert-den-aufbau-und-betrieb-meiner-pv-anlage-balkonkraftwerk)
-  - [- Github Pages](#--github-pages)
   - [Einleitung und Motivation](#einleitung-und-motivation)
   - [Podcast-Links](#podcast-links)
   - [Selberbauen oder Fertiglösung?](#selberbauen-oder-fertiglösung)
   - [Auf gehts - wir fangen mal an](#auf-gehts---wir-fangen-mal-an)
-    - [Einzelteile](#einzelteile)
-    - [Behördenkram (kommt noch)](#behördenkram-kommt-noch)
-    - [Blog (kommt noch)](#blog-kommt-noch)
+    - [Komponenten](#komponenten)
   - [GitHub Pages](#github-pages)
 ---
 
@@ -63,7 +56,7 @@ Diese Seite soll auch dazu dienen, relevante Details und Überlegungen zu dokume
 Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Schritt in die richtige Richtung zur dezentralen Energiegewinnung sind.
 
 ## Auf gehts - wir fangen mal an
-### Einzelteile
+### Komponenten
 * [Wechselrichter/ Inverter](inverter.md)
 * [PV Module](pv-module.md)
 * [Zubehör](stuff.md)
