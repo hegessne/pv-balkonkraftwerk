@@ -1,8 +1,8 @@
 # Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes
 Diese Seite dokumentiert den Aufbau und Betrieb meiner Mini PV-Anlage (Balkonkraftwerk).
 Sie soll mein Wissen und meine Erfahrung dokumentieren, zum selbst ausprobieren anregen und meinen Fortschritt in einem Blog veranschaulichen.
-
 Außerdem ist das meine erste Seite mit GitHub Pages - dazu weiter unten mehr. [GitHub](github-pages.md)
+
 ---
 
 Table of Contents
@@ -12,6 +12,7 @@ Table of Contents
   - [Auf gehts - wir fangen mal an](#auf-gehts---wir-fangen-mal-an)
     - [Komponenten](#komponenten)
   - [GitHub Pages](#github-pages)
+
 ---
 
 ## Einleitung und Motivation
