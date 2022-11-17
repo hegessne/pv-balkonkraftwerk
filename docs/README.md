@@ -25,7 +25,7 @@ Das erste Mal bin ich beim Hören des Podcasts (siehe unten) auf der langen Urla
 - keine Einspeise-Vergütung (EEG-Umlage), nur private Verwendung
 - keine Stromspeicherung
 - Voraussetzungen müssen erfüllt sein
-  - moderner Stromzähler (darf nicht rückwärts laufen)
+  - moderner Stromzähler (mit Rücklaufsperre)
   - Stromleitungen müssen stark genug sein (am besten nicht älter als 40 Jahre alt)
 - Anmeldung bei der Bundesnetzagentur (Marktstammdatenregister) und beim Netzanbieter
 
@@ -52,6 +52,9 @@ Natürlich ist die Verhältnismäßigkeit zwischen Investition und Nutzen nicht 
 Besonders dieser Podcast hat mich erwischt - ich habe ihn auf der Urlaubsfahrt gehört und es hat mich sofort gepackt. So einfach? Das will ich auch.
 * [Balkonkraftwerke und selbstgemachter Strom - c’t uplink 43.8](https://www.heise.de/news/Balkonkraftwerke-und-selbstgemachter-Strom-c-t-uplink-43-8-7126423.html)
 
+weitere Podcasts zum Thema Balkonkraftwerk, die ich mir angehört habe und interessant waren
+* [TechnikDiskutiert - Wie baue ich mir ein Balkonkraftwerk?](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85MDhkYTEwNC9wb2RjYXN0L3Jzcw/episode/YWZhNmRlZDYtYzBiOC00ZTY3LTk1MDktN2E4ZDkxNjY5MDdk?sa=X&ved=0CAIQuIEEahcKEwjw0oChgbX7AhUAAAAAHQAAAAAQQw)
+
 ## Selberbauen oder Fertiglösung?
 Wie oben bereits geschrieben, habe ich mich entschieden, eine PV-Anlage (Balkonkraftwerk) selbst zu bauen.
 Diese Seite soll auch dazu dienen, relevante Details und Überlegungen zu dokumentieren, so dass die Hürde, es ebenfalls selbst zu bauen, gesenkt wird.
@@ -63,7 +66,7 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 * [PV Module](pv-module.md)
 * [Zubehör](stuff.md)
 
-### Behördenkram (kommt noch)
+### [Auflagen und Anmeldungen](behoerdenkram.md)
 ### [Blog](blog.md) (kommt noch)
 
 ## GitHub Pages
