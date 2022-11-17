@@ -2,7 +2,7 @@
 Der Modulwechselrichter (Inverter) wandelt die gewonnene Leistung aus den PV-Modulen in netzkonformen Wechselstrom um. (DC -> AC)
 Ich habe mich für diesen von GROWATT entschieden. Es gibt auch preiswertere Modelle, aber dennoch habe ich diesen aufgrund guter Rezensionen und Features entschieden.
 
-Sehr viel preiswerter sind Mikrowechselrichter, auch GMI (**G**rid Tie **M**icro **I**nverter) genannt. siehe [Mikrowechselrichter](#mikrowechselrichter-gmi)
+Sehr viel preiswerter sind Mikrowechselrichter, auch GMI (**G**rid Tie **M**icro **I**nverter) genannt. siehe [Mikrowechselrichter](#mikrowechselrichter-modulwechselrichter-gmi)
 
 ## Growatt MIC 600 TL-X Wechselrichter
 Einphasiger Wechselrichter mit 600 Watt Ausgangsleistung. Ich habe mich (vorerst) für das Modell ohne WLAN entschieden. Er verfügt über einen DC-Schalter und hat damit die gesetzlich vorgeschriebene Freischalteinrichtung (ENS) nach VDE-AR-N 4105 bereits im Wechselrichter integriert.
@@ -19,6 +19,7 @@ Somit sind - anders als bei anderen Micro Invertern - keine weiteren Abschaltvor
 * max. Eingangsspannung: 500 V
 * Start Spannung:	50 V (im Manual steht 70 Volt) -> 35 Volt haben definitiv nicht gereicht - siehe erster und zweiter Versuch.
 * max. Wirkungsgrad: 96,5 %
+
 
 ### Downloads
 * [Datasheet DE](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_DS-DE.pdf)

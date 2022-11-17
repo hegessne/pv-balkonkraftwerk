@@ -11,6 +11,7 @@ Table of Contents
   - [Selberbauen oder Fertiglösung?](#selberbauen-oder-fertiglösung)
   - [Auf gehts - wir fangen mal an](#auf-gehts---wir-fangen-mal-an)
     - [Komponenten](#komponenten)
+    - [Auflagen und Anmeldungen](#auflagen-und-anmeldungen)
   - [GitHub Pages](#github-pages)
 
 ---
