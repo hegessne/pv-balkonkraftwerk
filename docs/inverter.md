@@ -20,7 +20,6 @@ Somit sind - anders als bei anderen Micro Invertern - keine weiteren Abschaltvor
 * Start Spannung:	50 V (im Manual steht 70 Volt) -> 35 Volt haben definitiv nicht gereicht - siehe erster und zweiter Versuch.
 * max. Wirkungsgrad: 96,5 %
 
-
 ### Datenblätter, etc.
 * [Datasheet DE](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_DS-DE.pdf)
 * [Manual DE](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_MAN-DE.pdf)

@@ -1,6 +1,3 @@
-[[_TOC_]]
-
-
 # PV Module
 Bei den PV-Modulen habe ich zunächst nach gebrauchten Exemplaren bei eBay (und Kleinanzeigen) Ausschau gehalten - jedoch gab es da nur welche zur Selbstabholung mind. 150 km entfernt...
 Also, wer das Glück hat, einen Händler in der Nähe zu haben, der gebrauchte PV-Module verkauft, kann sich ruhig darauf einlassen, denn der Wirkungsgrad soll auch nach 20 Jahren noch hoch sein und wenn man dadruch viel Geld sparen kann, kann man bei der Anschaffung sparen.
