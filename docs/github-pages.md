@@ -9,7 +9,7 @@ Da ich mir die Url der Page nicht merken konnte, hielt ich es für sinnvoll, sie
 1. (Sub-)Domain ausdenken und CNAME auf die GitHub-User-Domain setzen (hier: balkonkraftwerk.gessnet.de -> hegessne.github.io)
 2. DNS Eintrag prüfen
 ```
-root@linux01:~# dig CNAME  balkonkraftwerk.gessnet.de
+root@linux01:~# dig CNAME balkonkraftwerk.gessnet.de
 
 ; <<>> DiG 9.16.33-Debian <<>> CNAME balkonkraftwerk.gessnet.de
 ;; global options: +cmd
@@ -34,6 +34,8 @@ balkonkraftwerk.gessnet.de. 600	IN	CNAME	hegessne.github.io.
 4. SAVE
 5. Anschließend wird die Seite mit den geänderten Properties neu gebaut und deployt (kann man in Actions bestaunen)
 weitere Infos weiter unten in den Links
+6. Haken setzen bei ENFORCE HTTPS
+7. Warten und freuen, dass die Seite über die Custom Domain und per HTTPS erreichbar ist
 
 ## Links
 Hier einige nützliche Links, wenn man sich der Thematik nähern will:
