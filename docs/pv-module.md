@@ -22,7 +22,7 @@ Warum 2 Mal 395 Watt? Einmal wäre zu wenig gewesen, da ich 600 Watt Maximalleis
 * DC Leistung: 395 Wp
 * Zellen: 108 Zellen
 * Modul Maße: 1722 x 1134 x 30mm
-### Downloads
+### Datenblätter, etc.
 * [Datenblatt](DB-JAM54S31MR_MC4_JAM54S31_380-405_MR_Global_EN.pdf)
 
 ### Links

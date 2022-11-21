@@ -21,7 +21,7 @@ Somit sind - anders als bei anderen Micro Invertern - keine weiteren Abschaltvor
 * max. Wirkungsgrad: 96,5 %
 
 
-### Downloads
+### Datenblätter, etc.
 * [Datasheet DE](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_DS-DE.pdf)
 * [Manual DE](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_MAN-DE.pdf)
 * [Quick Guide](files/inverter/GW-MIC-600-TL-X/GWMIC600TL-X_QUICK-DE.pdf)
