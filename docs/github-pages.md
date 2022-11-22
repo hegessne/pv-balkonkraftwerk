@@ -6,7 +6,7 @@ GitHub Pages werden als Markdown geschrieben und mit Hilfe des static site gener
 * Editor: Visual Studio Editor
   * [Plugins](vs-code-plugins.md)
 * Markdown Engine: Kramdown
-* Theme: architect via jekyll-remote-theme (Plugin)
+* Theme: [slate](#github-pages-theme-slate) via jekyll-remote-theme (Plugin)
 
 ## GitHub Pages Custom Domain
 
@@ -46,6 +46,10 @@ weitere Infos weiter unten in den Links
 
 6. Haken setzen bei ENFORCE HTTPS
 7. Warten und freuen, dass die Seite über die Custom Domain und per HTTPS erreichbar ist
+
+## GitHub Pages Theme slate
+
+* [Theme Slate bei GitHub](https://github.com/pages-themes/slate)
 
 ## Links
 
