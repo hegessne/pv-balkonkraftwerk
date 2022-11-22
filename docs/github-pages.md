@@ -1,5 +1,6 @@
 # GitHub Pages
 
+Diese Seite wurde mit GitHub Pages erstellt, eine sehr einfache und coole Art, statischen Content als Webseite zur Verfügung zu stellen.
 GitHub Pages werden als Markdown geschrieben und mit Hilfe des static site generators jekyll gebaut.
 
 * Editor: Visual Studio Editor
@@ -40,7 +41,9 @@ balkonkraftwerk.gessnet.de. 600	IN	CNAME	hegessne.github.io.
 3. in Repo Settings -> Pages -> Custom Domain -> Domain eintragen
 4. SAVE
 5. Anschließend wird die Seite mit den geänderten Properties neu gebaut und deployt (kann man in Actions bestaunen)
+
 weitere Infos weiter unten in den Links
+
 6. Haken setzen bei ENFORCE HTTPS
 7. Warten und freuen, dass die Seite über die Custom Domain und per HTTPS erreichbar ist
 
