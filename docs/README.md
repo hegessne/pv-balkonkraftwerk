@@ -14,6 +14,7 @@ Table of Contents
   - [Selberbauen oder Fertiglösung?](#selberbauen-oder-fertiglösung)
   - [Auf gehts - wir fangen mal an](#auf-gehts---wir-fangen-mal-an)
     - [Komponenten](#komponenten)
+    - [Aufbau der PV Module](#aufbau-der-pv-module)
     - [Auflagen und Anmeldungen](#auflagen-und-anmeldungen)
     - [Blog (kommt noch)](#blog-kommt-noch)
 
@@ -52,6 +53,10 @@ Vielleicht habe ich auch später einmal die Ambition, mir eine größere PV-Anla
 3. Wirtschaftlichkeit
 Natürlich ist die Verhältnismäßigkeit zwischen Investition und Nutzen nicht völlig egal. Ich sehe die Anschaffungskosten als eine Investition in die ersten beiden Punkte meiner Motivation und wenn sich die PV-Anlage auch wirtschaftlich lohnt, freut es mich natürlich umso mehr. Bei der Entwicklung der Energiepreise ist das wohl schon eher der Fall als man denkt... ;-)
 
+4. Nachhaltigkeit
+Beim Thema Energiewende und Umweltschutz geht es meiner Meinung nach auch um Nachhaltigkeit. Ich habe den Anspruch, so viel wie möglich regional zu kaufen. Zum Beispiel werde ich mir Stecker und Stromkabel im Baumarkt um die Ecke kaufen - auch wenn es bequemer wäre, dies in der Mittagspause im Internet zu bestellen. Auch den Stahl die die PV Modul Aufständerung werde ich lokal kaufen usw...
+Natürlich ist der Anspruch z. B. für Wechselrichter und PV Module nur bedingt oder gar nicht umsetzbar, aber dennoch kann man einen Beitrag zur Nachhaltigkeit durch regionales Kaufen oder das Vermeiden von Versand-Lieferungen leisten.
+
 ## Podcast-Links
 
 Besonders dieser Podcast hat mich erwischt - ich habe ihn auf der Urlaubsfahrt gehört und es hat mich sofort gepackt. So einfach? Das will ich auch.
@@ -76,7 +81,15 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 
 - [PV Module](pv-module.md)
 
-- [Zubehör](stuff.md)
+- [Verkabelung](stuff.md)
+
+### Aufbau der PV Module
+
+- [Ausrichtung der PV Module](pv-module_ausrichtung.md)
+
+- [Neigungswinkel der PV Module](pv-module_neigungswinkel.md)
+
+- [Montage der PV Module - Dach, Schuppen, Balkon oder Fassade](pv-module_montage.md)
 
 ### [Auflagen und Anmeldungen](behoerdenkram.md)
 
