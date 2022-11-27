@@ -17,6 +17,7 @@ Table of Contents
     - [Aufbau der PV Module](#aufbau-der-pv-module)
     - [Auflagen und Anmeldungen](#auflagen-und-anmeldungen)
     - [Blog (kommt noch)](#blog-kommt-noch)
+  - [gute Links](#gute-links)
 
 ---
 
@@ -94,3 +95,8 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 ### [Auflagen und Anmeldungen](behoerdenkram.md)
 
 ### [Blog](blog.md) (kommt noch)
+
+## gute Links
+
+- [Photovoltaik.org](https://www.photovoltaik.org/)
+- [Photovoltaikforum](https://www.photovoltaikforum.com/)
