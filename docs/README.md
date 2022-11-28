@@ -13,11 +13,12 @@ Table of Contents
   - [Podcast-Links](#podcast-links)
   - [Selberbauen oder Fertiglösung?](#selberbauen-oder-fertiglösung)
   - [Auf gehts - wir fangen mal an](#auf-gehts---wir-fangen-mal-an)
-    - [Komponenten](#komponenten)
+    - [Anschaffung Komponenten](#anschaffung-komponenten)
     - [Aufbau der PV Module](#aufbau-der-pv-module)
     - [Auflagen und Anmeldungen](#auflagen-und-anmeldungen)
     - [Blog (kommt noch)](#blog-kommt-noch)
-  - [gute Links](#gute-links)
+  - [Links Informationen Photovoltaik/ Solar-Anlagen allgemein](#links-informationen-photovoltaik-solar-anlagen-allgemein)
+  - [Links Informationen Balkonkraftwerke](#links-informationen-balkonkraftwerke)
 
 ---
 
@@ -76,7 +77,7 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 
 ## Auf gehts - wir fangen mal an
 
-### Komponenten
+### Anschaffung Komponenten
 
 - [Wechselrichter/ Inverter](inverter.md)
 
@@ -96,7 +97,17 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 
 ### [Blog](blog.md) (kommt noch)
 
-## gute Links
+## Links Informationen Photovoltaik/ Solar-Anlagen allgemein
 
 - [Photovoltaik.org](https://www.photovoltaik.org/)
 - [Photovoltaikforum](https://www.photovoltaikforum.com/)
+- [Solaranlagen-Portal](https://www.solaranlagen-portal.com)
+-
+
+## Links Informationen Balkonkraftwerke
+
+- [wohnglueck.de - Balkonkraftwerk: Lohnt sich eine Solaranlage für den Balkon?](https://wohnglueck.de/artikel/balkonkraftwerk-vorteile-nachteile-kosten-27810)
+- [verivox.de - Balkonkraftwerk](https://www.verivox.de/photovoltaik/themen/balkonkraftwerk/)
+- [homeandsmart.de - Balkonkraftwerk Test-Überblick 2022: Vorteile, Kosten & Modelle](https://www.homeandsmart.de/balkonkraftwerk-solaranlage-vergleich)
+- [sonnstrom.de - Balkonkraftwerk](https://www.sonnstrom.de/Balkonkraftwerk.html)
+- [computerbild.de - Balkonkraftwerke im Vergleich](https://www.computerbild.de/artikel/Balkonkraftwerk-Vergleichstabelle-32639441.html)
