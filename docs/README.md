@@ -13,9 +13,9 @@ Table of Contents
   - [Podcast-Links](#podcast-links)
   - [Selberbauen oder Fertiglösung?](#selberbauen-oder-fertiglösung)
   - [Auf gehts - wir fangen mal an](#auf-gehts---wir-fangen-mal-an)
-    - [Anschaffung Komponenten](#anschaffung-komponenten)
-    - [Aufbau der PV Module](#aufbau-der-pv-module)
-    - [Auflagen und Anmeldungen](#auflagen-und-anmeldungen)
+    - [1. Einzel-Komponenten](#1-einzel-komponenten)
+    - [2. Montage der PV Module](#2-montage-der-pv-module)
+    - [3. Auflagen und Anmeldungen](#3-auflagen-und-anmeldungen)
     - [Blog (kommt noch)](#blog-kommt-noch)
   - [Links Informationen Photovoltaik/ Solar-Anlagen allgemein](#links-informationen-photovoltaik-solar-anlagen-allgemein)
   - [Links Informationen Balkonkraftwerke](#links-informationen-balkonkraftwerke)
@@ -77,7 +77,7 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 
 ## Auf gehts - wir fangen mal an
 
-### Anschaffung Komponenten
+### 1. Einzel-Komponenten
 
 - [Wechselrichter/ Inverter](inverter.md)
 
@@ -85,7 +85,7 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 
 - [Verkabelung](stuff.md)
 
-### Aufbau der PV Module
+### 2. Montage der PV Module
 
 - [Ausrichtung der PV Module](pv-module_ausrichtung.md)
 
@@ -93,7 +93,9 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 
 - [Montage der PV Module - Dach, Schuppen, Balkon oder Fassade](pv-module_montage.md)
 
-### [Auflagen und Anmeldungen](behoerdenkram.md)
+  - [Bau der PV-Platten Halterung aus Winkelstahl (Eigenbau)](pv-module_montage_halterung_winkelstahl.md)
+
+### [3. Auflagen und Anmeldungen](behoerdenkram.md)
 
 ### [Blog](blog.md) (kommt noch)
 
@@ -102,7 +104,6 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ist ein Sch
 - [Photovoltaik.org](https://www.photovoltaik.org/)
 - [Photovoltaikforum](https://www.photovoltaikforum.com/)
 - [Solaranlagen-Portal](https://www.solaranlagen-portal.com)
--
 
 ## Links Informationen Balkonkraftwerke
 
