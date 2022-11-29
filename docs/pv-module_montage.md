@@ -16,5 +16,9 @@ Es ist auch nicht verwerflich, sich etwas fertiges zu kaufen - da gibt es für d
 ### Links zu Fertiglösungen PV Halterungen
 
 - [eBay - Photovoltaik Befestigungsmittel](https://www.ebay.de/b/Photovoltaik-Befestigungsmittel/125063)
+
+- [eBay - Solarpanel Halterung bis 1140mm](https://www.ebay.de/itm/295231272124)
+- [eBay - Halterung Solarpanel 1180mm](https://www.ebay.de/itm/185509684244)
+- [eBay - Halterung Solarpanel 1180mm](https://www.ebay.de/itm/155178307528)
 - [Shop photovoltaik4all.de - Fassadenstütze für Solarmodule](https://www.photovoltaik4all.de/schletter-fassadenstuetze-light-fuer-solarmodule-1,3-bis-1,6m)
 - [Shop primesolar.eu - Fassaden Halterung für Solarmodule](https://www.primesolar.eu/shop/halterung-fuer-solarmodule-bis-1070-mm-modulbreite/)
