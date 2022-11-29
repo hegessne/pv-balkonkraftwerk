@@ -51,6 +51,9 @@ weitere Infos weiter unten in den Links
 
 * [Theme Slate bei GitHub](https://github.com/pages-themes/slate)
 
+
+## GitHub Pages Blog
+
 ## Links
 
 Hier einige nützliche Links, wenn man sich der Thematik nähern will:
@@ -61,6 +64,10 @@ Hier einige nützliche Links, wenn man sich der Thematik nähern will:
 * [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 * [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 * [GitHub Pages Custom Domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+
+### GitHub Pages Blog
+
+* [Creating a blog using GitHub Pages | David's Blog](https://dfederm.com/creating-a-blog-using-github-pages/)
 
 ### Markdown
 
