@@ -5,7 +5,7 @@
 ### 1. Solarkabel (MC4)
 
 * 6 mm², Kupfer
-* https://www.ebay.de/itm/284369915986
+* [Solarkabel bei eBay](https://www.ebay.de/itm/284369915986)
 
 ### 2. Steckdosen Anschlusskabel (Schuko)
 
@@ -13,16 +13,16 @@
 
 Ich habe keine Wieland-Steckdose und habe mich erstmal für einen Schuko-Stecker entschieden.
 
-* [Wieland_Steckdose vs. Schuko-Stecker](https://www.homeandsmart.de/balkonkraftwerk-wieland-steckdose-schuko-steckdose)
+* [homeandsmart.de - Wieland_Steckdose vs. Schuko-Stecker](https://www.homeandsmart.de/balkonkraftwerk-wieland-steckdose-schuko-steckdose)
 
 Schuko-Stecker und Kabel anschließen
 
-* [Kabel und Farben](https://www.talu.de/factsheet-stromkabel-farben/)
+* [talu.de - Kabel und Farben](https://www.talu.de/factsheet-stromkabel-farben/)
 
 Ich habe mich dazu entschlossen, mir das Kabel selbst zu konfektionieren:
 
-* [Schuko-Stecker](https://toom.de/p/schukostecker-ip44-knickschutz-schwarz/9400013)
-* [Kabel als Meterware](https://toom.de/p/schlauchleitung-h05vv-f-3g-25-mm-weiss-50-m-ringware/9050434)
+* [Schuko-Stecker bei toom](https://toom.de/p/schukostecker-ip44-knickschutz-schwarz/9400013)
+* [Kabel als Meterware bei toom](https://toom.de/p/schlauchleitung-h05vv-f-3g-25-mm-weiss-50-m-ringware/9050434)
 
 Für den ersten Test habe ich erstmal ein 2-Meter kabel hergestellt:
 
