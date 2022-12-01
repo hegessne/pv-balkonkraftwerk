@@ -45,7 +45,7 @@ Ich möchte gern meinen Beitrag an der Energiewende und einer dezentralen Stromv
 Außerdem sind die PV-Module am Haus sichtbar und vielleicht beschäftigt sich dadurch der eine oder andere in meiner Nachbarschaft mit dem Thema oder schafft sich sogar selbst ein Balkonkraftwerk an.
 
 2. Erfahrung sammeln und Wissen teilen
-Diesen Punkt hatte ich erst an dritter Stelle und ohne "Wissen teilen" geschrieben, aber durch die Wissensteilung ist dies für mich nochmal umso wichtiger gewesen. Außerdem wurde ich mehrmals gefragt, ob ich meine Erfahrungen dokumentieren könne (**Danke [Andreas](https://github.com/avalor1)!**:smiley:) - das war soewieso mein Anspruch, nur nicht öffentlich.
+Diesen Punkt hatte ich erst an dritter Stelle und ohne "Wissen teilen" geschrieben, aber durch die Wissensteilung ist dies für mich nochmal umso wichtiger gewesen. Außerdem wurde ich mehrmals gefragt, ob ich meine Erfahrungen dokumentieren könne (**Danke [Andreas](https://github.com/avalor1)!**) - das war soewieso mein Anspruch, nur nicht öffentlich.
 Erneuerbare Energien bzw. wie in diesem Fall die Photovoltaik interessieren mich sehr und ich habe mich dafür entschieden, mir mein Balkonkraftwerk selbst zusammenzubauen.
 Voraussetzung dafür ist das notwendige Know-How, deshalb lagen zwischen dem Hören des ersten Podcasts dazu und der Bestellung des Inverters (=Gleichrichter) bei mir knapp 3 Monate.
 Angefangen bei den rechtlichen Rahmenbedingungen, der Auswahl des Gleichrichters sowie der PV-Module, den Stromanschlüssen bis hin zur Standortwahl will alles gut recherchiert sein. Das war sehr interessant, hat aber auch viel Zeit gekostet und ich fühle mich in dieser Thematik nun viel sicherer.
