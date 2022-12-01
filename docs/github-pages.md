@@ -8,6 +8,11 @@ GitHub Pages werden als Markdown geschrieben und mit Hilfe des static site gener
 * Markdown Engine: Kramdown
 * Theme: [slate](#github-pages-theme-slate) via jekyll-remote-theme (Plugin)
 
+**Warum habe ich mich gerade für GitHub Pages entschieden?**
+
+Dass ich meine Erfahrungen und Kenntnisse für mich dokumentieren und anderen zur Verfügung stellen will, hatte ich von Beginn an vor. Allerdings dachte ich eher an eine private Doku, irgendetwas gewöhnliches wie Office (Writer, Calc, ...) oder Notepad++.
+Als ich mich dann dafür entschieden habe, meine Dokumentation öffentlich zu machen, überlegte ich, wie ich es am besten anstelle. Auf meinem Server ein WordPress bereitzustellen, war mir zu aufwändig, denn ich wollte sofort losdokumentieren. Außerdem müsste ich Plugins und Themes installieren, konfigurieren und das WordPress regelmäßig patchen und Backup einrichten. Wie gesagt: zu aufwändig. Eine kostenlose WordPress Instanz (managed) wollte ich auch nicht, denn ich will keine Werbung in meiner Doku haben und Geld für's Hosting ausgeben will ich auch nicht. So hat mich [Christopher](https://github.com/beechesII) :smiley: auf die coole Idee mit den GitHub oder GitLab Pages gebracht und ich habe mir das mal genauer angesehen. GitLab nutze ich auf Arbeit schon so viel - deswegen habe ich mich für GitHub entschieden.
+
 ## GitHub Pages Custom Domain
 
 Da ich mir die Url der Page nicht merken konnte, hielt ich es für sinnvoll, sie unter einer custom domain verfügbar zu machen:
@@ -51,8 +56,25 @@ weitere Infos weiter unten in den Links
 
 * [Theme Slate bei GitHub](https://github.com/pages-themes/slate)
 
+## GitHub Pages - meine Meinung - Pros und Cons
+
+### Cons
+
+* Bilder einfügen und skalieren ist etwas umständlich
+* Vorschau im Editor (VSCode) nicht immer zuverlässig - das endgültige Ergebnis sieht man erst nach dem Rendering/ Deployment
+
+### Pros
+
+* Vorteile des Arbeitens im Git: Branches, Releases (Tags)
+* VSCode Plugins unterstützen das Arbeiten
+
+### Fazit
+
+Die Erstellung der Doku mit GitHub Pages ist eine coole Sache. Arbeiten mit Git und CI/CD-Pipelines gehören zu meinem Arbeitsalltag und sind von Vorteil. Im Gegensatz zu einem WordPress Blog hat es auch einen nerdigen Charme. Auch das Arbeiten im VSCode macht natürlich sehr viel Spaß, aber die [Cons](#cons) zeigen auch, dass es die eine oder andere Herausforderung zu bewältigen gibt. Eine interessante Erfahrung ist es auf jeden Fall und ich habe auch wieder etwas neues gelernt. ;-)
 
 ## GitHub Pages Blog
+
+will ich noch machen...
 
 ## Links
 
