@@ -4,7 +4,7 @@ Natürlich gibt es die verschiedensten Möglichkeiten zur Montage der Solarplatt
 
 Mein Ziel ist es, die zwei Solar-Platten an der Fassade (Süd-Seite) auf einer Metall-Konstruktion zu montieren. Diesen will ich aus Winkelstahl selber bauen.
 
-![Ansicht Haus mit Fassade Südseite - aufgenommen am 27.11.2022, 13:07 Uhr -> die Sonne steht tief und der Schatten ist um diese Zeit schon sehr groß](files/pv-molules/20221127_130700.jpg 'Ansicht Haus mit Fassade Südseite - aufgenommen am 27.11.2022, 13:07 Uhr -> die Sonne steht tief und der Schatten ist um diese Zeit schon sehr groß'){:height="400px" width="300px"}.
+![Ansicht Haus mit Fassade Südseite - aufgenommen am 27.11.2022, 13:07 Uhr -> die Sonne steht tief und der Schatten ist um diese Zeit schon sehr groß](files/pv-molules/20221127_130700.jpg 'Ansicht Haus mit Fassade Südseite - aufgenommen am 27.11.2022, 13:07 Uhr -> die Sonne steht tief und der Schatten ist um diese Zeit schon sehr groß bzw. weit oben'){:height="400px" width="300px"}.
 
 ## Selberbauen oder Fertiges?
 
