@@ -6,7 +6,7 @@ Also, wer das Glück hat, einen Händler in der Nähe zu haben, der gebrauchte P
 So habe ich bei eBay nach neuen Modulen geschaut und mich nach etwas Recherche für 2 JA Solar 395 Watt Module entschieden.
 Warum 2 Mal 395 Watt? Einmal wäre zu wenig gewesen, da ich 600 Watt Maximalleistung (hin und wieder) erreichen will und 395 Watt deswegen, weil ich etwas Reserve für Wolken, Wintersonne etc. einplanen wollte und warum exakt die? Weil die vom Angebot, der Leistung und den Versandkosten für mich am attraktivsten waren...
 
-## JA Solar JAM54S31 395 WpPV Modul, full black schwarz
+## JA Solar JAM54S31 395 Wp PV Modul, full black schwarz
 
 ![JA Solar JAM54S31](files/pv-molules/jasolar_JAM54S31_395/Photovoltaik_JASolar_375WP_schwarz_seitlich.jpg 'JA Solar JAM54S31 PV Modul 395 Wp full black schwarz'){:height="360px" width="360px"}.
 
@@ -25,13 +25,13 @@ Warum 2 Mal 395 Watt? Einmal wäre zu wenig gewesen, da ich 600 Watt Maximalleis
 * Hersteller: JA SOLAR
 * DC Leistung: 395 Wp
 * Zellen: 108 Zellen
-* Modul Maße: 1722 x 1134 x 30mm
+* Modul Maße: 1722 x 1134 x 30 mm
 
 ### Datenblätter, etc
 
 * [Datenblatt](DB-JAM54S31MR_MC4_JAM54S31_380-405_MR_Global_EN.pdf)
 
-### Links
+### Links zu JA Solar JAM54S31 395 Wp
 
-* [https://www.photovoltaik4all.de/solarmodule/ja-solar-jam54s31-395-black](https://www.photovoltaik4all.de/solarmodule/ja-solar-jam54s31-395-black)
-* [eBay](https://www.ebay.de/itm/294930335743)
+* [JA Solar JAM54S31 395 Wp bei photovoltaik4all.de](https://www.photovoltaik4all.de/solarmodule/ja-solar-jam54s31-395-black)
+* [JA Solar JAM54S31 395 Wp bei eBay](https://www.ebay.de/itm/294930335743)

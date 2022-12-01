@@ -89,7 +89,7 @@ Hier einige nützliche Links, wenn man sich der Thematik nähern will:
 
 ### GitHub Pages Blog
 
-* [Creating a blog using GitHub Pages | David's Blog](https://dfederm.com/creating-a-blog-using-github-pages/)
+* [Creating a blog using GitHub Pages - David's Blog](https://dfederm.com/creating-a-blog-using-github-pages/)
 
 ### Markdown
 
