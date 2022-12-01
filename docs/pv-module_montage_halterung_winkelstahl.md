@@ -1,6 +1,6 @@
 # PV-Platten Halterung aus Winkelstahl (Eigenbau)
 
-![Skizze Haus mit ungefährer Höhe der Panels](files/pv-molules/montage_halterung_winkelstahl/signal-2022-11-25-041915_002.jpg 'Skizze Haus mit ungefährer Höhe der Panels'){:height="325px" width="4000px"}.
+![Skizze Haus mit ungefährer Höhe der Panels](files/pv-molules/montage_halterung_winkelstahl/signal-2022-11-25-041915_002.jpg 'Skizze Haus mit ungefährer Höhe der Panels'){:height="325px" width="400px"}.
 
 ![Maßstäbliche Skizze M1:10](files/pv-molules/montage_halterung_winkelstahl/20221130_134056.jpg 'Maßstäbliche Skizze M1:10'){:height="400px" width="383px"}.
 
