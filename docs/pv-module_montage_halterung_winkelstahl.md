@@ -7,7 +7,7 @@
 ![Winkelstahl](files/pv-molules/montage_halterung_winkelstahl/winkelstahl_2.jpg 'Winkelstahl'){:height="400px" width="383px"}.
 
 Ich werde die Halterung der PV-Module also selbst bauen. Danke an meinen Bruder Kay für die Konstruktions-Tipps.
-Die Höhe es deswegen so gewählt, weil die Sonne im Winter tiefer steht und damit der Schatten des Nachbarhauses die Stromproduktion stört.
+Die Höhe es deswegen so gewählt, weil die Sonne im Winter tiefer steht und damit der Schatten des Nachbarhauses die Stromproduktion stört. (sieht man ganz gut auf dem Bild in [Montage der PV-Platten](pv-module_montage.md))
 
 ## Material
 
