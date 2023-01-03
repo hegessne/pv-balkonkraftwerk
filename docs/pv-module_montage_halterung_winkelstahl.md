@@ -13,7 +13,8 @@ Die Höhe es deswegen so gewählt, weil die Sonne im Winter tiefer steht und dam
 
 - Winkelstahl 40x40x3 mm
 - Maschinenschrauben M8x20
-- Muttern selbstsichernd, M8
+- Muttern, M8 (für temporäre Montage)
+- Muttern selbstsichernd, M8 (nur einmal verwenden)
 - Unterlegscheiben, M8
 - 6-Kant-Schrauben für Wand: 8 x 100 mm
 - Dübel: 10 x 100 mm
@@ -29,6 +30,7 @@ Die Höhe es deswegen so gewählt, weil die Sonne im Winter tiefer steht und dam
 - Körner
 - Bohrmaschine mit Metallbohrern Ø 4, 6 und 8 mm
 - Senker HSS Ø 8 mm
+- 2 Böcke
 - Pinsel 30 mm breit
 - Schlagbohrmaschine/ Bohrhammer mit Steinbohrer Ø 10 mm
 
@@ -73,9 +75,19 @@ Nun müssen die Bohrlöcher beidseitig mit dem Senker entgratet werden.
 ![Bohrlöcher entgraten vorher](files/pv-molules/montage_halterung_winkelstahl/20221230_114309.jpg "Bohrlöcher entgraten vorher"){ width=400px }
 ![Bohrlöcher entgraten nachher](files/pv-molules/montage_halterung_winkelstahl/20221230_114319.jpg "Bohrlöcher entgraten nachher"){ width=400px }
 
+Ebenso müssen die Bohrlöcher für die Wand- oder Bodenmontage erstellt und entgratet werden.
+
+Nun lassen sich die Einzelteile zusammenschrauben - hoffentlich passt alles.
+Beim Verschrauben darauf achten, dass man nicht die Sicherungsmuttern nimmt, sondern normale, da es zum Streichen wieder demontiert werden muss.
+Die Sicherungsmuttern sollten nur einmal verwendet werden - also zur finalen Montage (Schritt 5)
+
 #### 4. Streichen mit Rostschutz (2-fach)
 
 Um den Stahl möglchst lange vor Witterung zu schützen, muss er behandelt werden. Ein zweifaches Streichen mit Rostschutzfarbe sollte reichen.
 Dazu muss die Konstruktion vollständig auseinandergebaut werden.
 
 ![Wintekstahl streichen](files/pv-molules/montage_halterung_winkelstahl/20230102_152814.jpg "Wintekstahl streichen"){ width=400px }
+
+#### 5. Zusammenschrauben + Rostschutz für Schrauben
+
+Nach dem Verschrauben der lackierten Einzelteile (mit den Sicherungsmuttern) müssen nun auch die Schraubverbindungen mit Rostschutz lackiert werden.
