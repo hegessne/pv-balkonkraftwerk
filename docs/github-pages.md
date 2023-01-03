@@ -72,7 +72,7 @@ weitere Infos weiter unten in den Links
 
 Die Erstellung der Doku mit GitHub Pages ist eine coole Sache. Arbeiten mit Git und CI/CD-Pipelines gehören zu meinem Arbeitsalltag und sind von Vorteil. Im Gegensatz zu einem WordPress Blog hat es auch einen nerdigen Charme. Auch das Arbeiten im VSCode macht natürlich sehr viel Spaß, aber die [Cons](#cons) zeigen auch, dass es die eine oder andere Herausforderung zu bewältigen gibt. Eine interessante Erfahrung ist es auf jeden Fall und ich habe auch wieder etwas neues gelernt. ;-)
 
-## GitHub Pages Blog
+## GitHub Pages Blog - How to
 
 will ich noch machen...
 
