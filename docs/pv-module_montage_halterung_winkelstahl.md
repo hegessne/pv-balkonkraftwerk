@@ -34,7 +34,7 @@ Die Höhe es deswegen so gewählt, weil die Sonne im Winter tiefer steht und dam
 - Pinsel 30 mm breit
 - Schlagbohrmaschine/ Bohrhammer mit Steinbohrer Ø 10 mm
 
-![Schablone](files/pv-molules/montage_halterung_winkelstahl/20221230_114456.jpg "Schablone"){ width=400px }
+![Schablone](files/pv-molules/montage_halterung_winkelstahl/20221230_114456.jpg "Schablone"){ :width=400px }
 
 ### Arbeitsablauf zur Herstellung der PV Halterungen
 
