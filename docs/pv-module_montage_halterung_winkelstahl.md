@@ -51,10 +51,14 @@ Je PV Platte werden zwei aus Winkelstahl gefertigte Dreiecke benötigt.
 ![Anzeichnen 4](files/pv-molules/montage_halterung_winkelstahl/20221227_132214.jpg "Anzeichnen 4"){ width=400px }
 ![Anzeichnen 5](files/pv-molules/montage_halterung_winkelstahl/20221227_132219.jpg "Anzeichnen 5"){ width=400px }
 
+- Schneiden mit dem Winkelschleifer
+![Schnitt](files/pv-molules/montage_halterung_winkelstahl/20221227_151810.jpg "Schnitt"){ width=400px }
+
 #### 2. Entgraten
 
 Mit der Feile werden die Schnittkanten entgratet, damit man sich nicht schneidet.
 Auch die Bohrlöcher müssen entgratet werden, damit man sich nicht verletzt und sie nicht reißen.
+![Schnitt](files/pv-molules/montage_halterung_winkelstahl/20221227_151810.jpg "Schnitt"){ width=400px }
 
 #### 3. Bohren und verschrauben
 
