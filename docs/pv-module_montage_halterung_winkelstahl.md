@@ -68,7 +68,14 @@ Mit Schraubzwingen werden die Einzelteile befestigt, damit sie sich beim Bohren 
 Es ist ratsam, jedes Loch vorzubohren: erst mit dem 4er, dann mit dem 6er und zum Schluss mit dem 8er Bohrer final.
 Nun müssen die Bohrlöcher beidseitig mit dem Senker entgratet werden.
 
+![Einzelteile zurechtlegen...](files/pv-molules/montage_halterung_winkelstahl/20221228_131519.jpg "Einzelteile zurechtlegen..."){ width=400px }
+![...und mit Schraubzwingen befestigen](files/pv-molules/montage_halterung_winkelstahl/20221228_132903.jpg "...und mit Schraubzwingen befestigen"){ width=400px }
+![Bohrlöcher entgraten vorher](files/pv-molules/montage_halterung_winkelstahl/20221230_114309.jpg "Bohrlöcher entgraten vorher"){ width=400px }
+![Bohrlöcher entgraten nachher](files/pv-molules/montage_halterung_winkelstahl/20221230_114319.jpg "Bohrlöcher entgraten nachher"){ width=400px }
+
 #### 4. Streichen mit Rostschutz (2-fach)
 
 Um den Stahl möglchst lange vor Witterung zu schützen, muss er behandelt werden. Ein zweifaches Streichen mit Rostschutzfarbe sollte reichen.
 Dazu muss die Konstruktion vollständig auseinandergebaut werden.
+
+![Wintekstahl streichen](files/pv-molules/montage_halterung_winkelstahl/20230102_152814.jpg "Wintekstahl streichen"){ width=400px }
