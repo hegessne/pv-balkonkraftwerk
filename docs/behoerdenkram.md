@@ -9,6 +9,7 @@ Folgende Dinge sind für den Betrieb eines Balkonkraftwerks (PV-Anlage) zu erfü
   * Account anlegen und Anlage registrieren
 * Netzbetreiber
 * ggf. beim Vermieter
+
 Man sollte das Balkonkraftwerk beim Vermieter anmelden, damit es keinen Ärger gibt - aber eigentlich kann er sich nicht in den Weg stellen.
 
 Weitere Infos dazu weiter unten bei den Links.
