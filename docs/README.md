@@ -6,7 +6,7 @@ Außerdem ist das meine erste Seite mit GitHub Pages - dazu weiter unten mehr in
 
 ---
 
-Table of Contents
+Inhalt
 
 - [Doku zum Aufbau und Betrieb meines Photovoltaik Balkonkraftwerkes](#doku-zum-aufbau-und-betrieb-meines-photovoltaik-balkonkraftwerkes)
   - [Einleitung und Motivation](#einleitung-und-motivation)
