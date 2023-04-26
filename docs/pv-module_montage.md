@@ -6,6 +6,8 @@ Mein Ziel ist es, die zwei Solar-Platten an der Fassade (Süd-Seite) auf einer M
 
 ![Ansicht Haus mit Fassade Südseite - aufgenommen am 27.11.2022, 13:07 Uhr -> die Sonne steht tief und der Schatten ist um diese Zeit schon sehr groß bzw. weit oben](files/pv-molules/20221127_130700.jpg "Ansicht Haus mit Fassade Südseite - aufgenommen am 27.11.2022, 13:07 Uhr -> die Sonne steht tief und der Schatten ist um diese Zeit schon sehr groß bzw. weit oben"){ height=400px }
 
+Da die Fassaden-Montage in der Höhe sehr aufwendig ist, habe ich mich vorerst für eine Installation auf dem Flachdach entschieden - siehe [PV Modul Montage Dach](pv-module_montage_dach.md)
+
 ## Selberbauen oder Fertiges?
 
 Auch hier gilt selbstverständlich, dass man sich mit etwas handwerklichem Geschick, Platz zum Arbeiten und wenig Geld eine Haltung für seine PV-Platten selber bauen kann. Ich beziehe mich hier auf Einzelanfertigungen für PV Balkonkraftwerke.. ;-)

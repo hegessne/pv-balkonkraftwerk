@@ -2,10 +2,15 @@
 
 ## Verkabelung
 
-### 1. Solarkabel (MC4)
+### 1. Solarkabel und Stecker (MC4)
+
+Je dicker das Kabel, desto geringer der spezifische Leitungswiderstand, aber desto teuerer ist das Kabel auch.
+Sehr guter Artikel bei heise dazu (leider kostenpflichtig für Nicht-Abonenten): [heise.de - Dicke Drähte](https://www.heise.de/select/ct/2023/10/2303114352443672911)
+
+Ich habe die Kabel als Meterware bestellt, Stecker dazu gekauft und sie selbst konfektioniert.
 
 * 6 mm², Kupfer
-* [Solarkabel bei eBay](https://www.ebay.de/itm/284369915986)
+* [Solarkabel mit Stecker bei eBay](https://www.ebay.de/itm/284369915986)
 
 ### 2. Steckdosen Anschlusskabel (Schuko)
 

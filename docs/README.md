@@ -20,7 +20,6 @@ Table of Contents
     - [1. Einzel-Komponenten](#1-einzel-komponenten)
     - [2. Montage der PV Module](#2-montage-der-pv-module)
     - [3. Auflagen und Anmeldungen](#3-auflagen-und-anmeldungen)
-    - [Blog (kommt noch)](#blog-kommt-noch)
   - [Links Informationen Photovoltaik/ Solar-Anlagen allgemein](#links-informationen-photovoltaik-solar-anlagen-allgemein)
   - [Links Informationen Balkonkraftwerke](#links-informationen-balkonkraftwerke)
   - [GitHub Pages](#github-pages)
@@ -102,11 +101,11 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ein Schritt
 
 - [Montage der PV Module - Dach, Schuppen, Balkon oder Fassade](pv-module_montage.md)
 
+  - [Montage der PV Module auf Flachdach](pv-module_montage_dach.md)
+
   - [Bau der PV-Platten Halterung aus Winkelstahl (Eigenbau)](pv-module_montage_halterung_winkelstahl.md)
 
 ### [3. Auflagen und Anmeldungen](behoerdenkram.md)
-
-### [Blog](blog.md) (kommt noch)
 
 ## Links Informationen Photovoltaik/ Solar-Anlagen allgemein
 
@@ -121,5 +120,6 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ein Schritt
 - [homeandsmart.de - Balkonkraftwerk Test-Überblick 2022: Vorteile, Kosten & Modelle](https://www.homeandsmart.de/balkonkraftwerk-solaranlage-vergleich)
 - [sonnstrom.de - Balkonkraftwerk](https://www.sonnstrom.de/Balkonkraftwerk.html)
 - [computerbild.de - Balkonkraftwerke im Vergleich](https://www.computerbild.de/artikel/Balkonkraftwerk-Vergleichstabelle-32639441.html)
+- [Anker.de -  Welche Vorteile haben Balkonkraftwerke und für wen sind sie geeignet?](https://de.anker.com/blogs/content/solarmodule-fuer-eigenbedarf-vorteile)
 
 ## [GitHub Pages](github-pages.md)
