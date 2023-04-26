@@ -5,11 +5,17 @@ Mit Hilfe einer Aluminium-Aufständerung für PV-Module und Betonplatten zur Bes
 An einem sonnigen Tag erreicht die Anlage ihre 600 Watt - ertragreichster Tag bisher war der 22.04.2023 mit 5,2 kWh.
 
 ![ ](files/pv-molules/montage_dach/20230408_173208.jpg 'Bitumenbahn und Betonplatten')
+
 ![ ](files/pv-molules/montage_dach/20230415_153207.jpg 'Bitumenbahn und Betonplatten mit Aufständerung')
+
 ![ ](files/pv-molules/montage_dach/20230415_153500.jpg 'Bitumenbahn und Betonplatten mit Aufständerung und Kabel')
+
 ![ ](files/pv-molules/montage_dach/20230416_144236.jpg 'PV Module - Sicht Richtung Süden')
+
 ![ ](files/pv-molules/montage_dach/20230416_145653.jpg 'PV Module - Sicht Richtung Westen')
+
 ![ ](files/pv-molules/montage_dach/20230426_143606.jpg 'PV Module - Sicht Richtung Norden')
+
 ![ ](files/pv-molules/montage_dach/20230419_111040.jpg '610 Watt kommen von den Solar-Modulen bei praller Sonne')
 
 ## Material
