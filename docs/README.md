@@ -4,6 +4,8 @@ Diese Seite dokumentiert den Aufbau und Betrieb meiner Mini PV-Anlage (Balkonkra
 Sie soll mein Wissen und meine Erfahrung dokumentieren, zum selbst ausprobieren anregen und meinen Fortschritt in einem Blog veranschaulichen.
 Außerdem ist das meine erste Seite mit GitHub Pages - dazu weiter unten mehr in [GitHub Pages](github-pages.md)
 
+![ ](files/pv-molules/montage_dach/20230426_143606.jpg 'PV Module auf Hausdach')
+
 ---
 
 Inhalt
@@ -103,7 +105,7 @@ Fertiglösungen sind sicher auch OK, und ich denke, dass jede Anlage ein Schritt
 
   - [Montage der PV Module auf Flachdach](pv-module_montage_dach.md)
 
-  - [Bau der PV-Platten Halterung aus Winkelstahl (Eigenbau)](pv-module_montage_halterung_winkelstahl.md)
+  - [Bau der PV-Platten Halterung aus Winkelstahl (Eigenbau; Work in Progress)](pv-module_montage_halterung_winkelstahl.md)
 
 ### [3. Auflagen und Anmeldungen](behoerdenkram.md)
 

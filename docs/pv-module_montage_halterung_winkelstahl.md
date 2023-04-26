@@ -1,4 +1,4 @@
-# PV-Platten Halterung aus Winkelstahl (Eigenbau)
+# PV-Platten Halterung aus Winkelstahl (Eigenbau) (Work in Progress)
 
 ![Skizze Haus mit ungefährer Höhe der Panels](files/pv-molules/montage_halterung_winkelstahl/signal-2022-11-25-041915_002.jpg 'Skizze Haus mit ungefährer Höhe der Panels'){:height="325px" width="400px"}.
 
