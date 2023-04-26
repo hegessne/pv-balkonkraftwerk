@@ -1,6 +1,6 @@
 # Montage der PV Module auf Flachdach
 
-Mit Hilfe einer Aluminium-Aufständerung für PV-Module und Betonplatten zur Beschwerung aus dem Baumarkt habe ich die Module auf dem Dach montiert. Zum Schutz der Bitumen-Schweißbahnen (Dachpappe) habe ich selbstklebende Bitumenbahnen darunter ausgelegt. Mit Dübel und Schraube wurde die Aufständerung mit den Betonplatten verbunden.
+Mit Hilfe einer Aluminium-Aufständerung für PV-Module und Betonplatten zur Beschwerung aus dem Baumarkt habe ich die Module auf dem Dach montiert. Zum Schutz der Bitumen-Schweißbahnen (Dachpappe) habe ich selbstklebende Bitumenbahnen darunter ausgelegt. Mit Dübel und Schraube wurde die Aufständerung mit den Betonplatten verbunden. Bei der Auswahl der Aufständerung kann man mit etwas Recherche Geld sparen - ich habe ca. 40 Euro für eine bezahlt, also insgesamt 80 Euro für beide Solar-Platten.
 
 An einem sonnigen Tag erreicht die Anlage ihre 600 Watt - ertragreichster Tag bisher war der 22.04.2023 mit 5,2 kWh.
 
@@ -10,7 +10,7 @@ An einem sonnigen Tag erreicht die Anlage ihre 600 Watt - ertragreichster Tag bi
 ![ ](files/pv-molules/montage_dach/20230416_144236.jpg 'PV Module - Sicht Richtung Süden')
 ![ ](files/pv-molules/montage_dach/20230416_145653.jpg 'PV Module - Sicht Richtung Westen')
 ![ ](files/pv-molules/montage_dach/20230426_143606.jpg 'PV Module - Sicht Richtung Norden')
-![ ](files/pv-molules/montage_dach/20230419_111040.jpg '610 Watt kommen von den Solar-Modulen')
+![ ](files/pv-molules/montage_dach/20230419_111040.jpg '610 Watt kommen von den Solar-Modulen bei praller Sonne')
 
 ## Material
 
